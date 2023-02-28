@@ -5,7 +5,7 @@
 * 一个chrome扩展插件
 * 在浏览网页时，为请求添加自定义请求头。
 * 记录所有请求内容并提供下载（可在下载的请求记录中查看添加的header内容）
-* ![image-20230228213857247](C:\Users\dell\AppData\Roaming\Typora\typora-user-images\image-20230228213857247.png)
+* ![image-20230228214328433](.\assets\image-20230228214328433.png)
 
 
 
